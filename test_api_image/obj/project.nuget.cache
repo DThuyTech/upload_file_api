@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "MvJkVD1kHObA+xaMZ2mSg8mXUcmpPrmgkR/090oTIFrLwCnP8OhJFtgD0/Lp9yCkyl++vZ3fh8B8yjD14OxB6w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Huy Trung\\source\\repos\\test_api_image\\test_api_image\\test_api_image.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Huy Trung\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\Huy Trung\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Huy Trung\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\Huy Trung\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\Huy Trung\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\Huy Trung\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
